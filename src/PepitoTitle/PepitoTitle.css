@@ -1,0 +1,12 @@
+.title-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 300px;
+}
+
+.Title {
+    font-size: 4rem;
+    line-height: 30px;
+}
